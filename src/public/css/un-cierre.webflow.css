@@ -25,7 +25,11 @@
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
 }
-
+.titulo-prin {
+  line-height: 1.2em;
+  font-weight: 300;
+  font-size:62px;
+}
 .bg-menu {
   display: -webkit-box;
   display: -webkit-flex;
